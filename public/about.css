@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  font: 14px "Century Gothic", Futura, sans-serif;
+  margin: 20px;
+  background-image: url(http://picturesofmoney.org/wp-content/uploads/2013/04/annimated-cash-and-money-bag.jpg);
+  background-size: cover;
+
+}
+.card-img-top {
+  height: 30vh;
+  width: auto;
+}
